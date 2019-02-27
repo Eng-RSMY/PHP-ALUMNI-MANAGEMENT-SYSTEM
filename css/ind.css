@@ -1,0 +1,29 @@
+
+
+
+.container-fluid
+{
+	margin-top: 1%;
+}
+.mission
+{
+	text-align: center;
+	
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.row_divided
+{
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+h2
+{
+	background-color: #F1F3F4;
+}
+p
+{
+	background-color: #F1F3F4;
+}
